@@ -33,6 +33,7 @@ de Proteção de Dados Pessoais (LGPD).
 - ![icons8-mongodb-24](https://github.com/Cyo4k/Plataforma-Web/assets/93006521/795df1f6-5478-4666-adce-c9176ee6179c)
 - ![html-5](https://github.com/Cyo4k/Plataforma-Web/assets/93006521/d54e498b-7d88-4073-81e6-e3423a267c67)
 - ![css-3](https://github.com/Cyo4k/Plataforma-Web/assets/93006521/bf27aa07-48b1-4742-a524-4004002e82a4)
+- ![axios_logo_icon_168545 (1)](https://github.com/Cyo4k/Plataforma-Web/assets/93006521/9c8151e3-39a2-43d7-89ba-3770f1c0510e)
 
 ## Screenshots
 
